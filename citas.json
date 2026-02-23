@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Mantequilla",
+    "edad": "13 años ",
+    "animal": "gato",
+    "color": "naranja",
+    "enfermedad": "gordo"
+  },
+  {
+    "nombre": "Scott",
+    "edad": "15 años",
+    "animal": "gato",
+    "color": "blanco y gris",
+    "enfermedad": "vomitos"
+  }
+]
